@@ -1,0 +1,10 @@
+POST http://localhost:8080/auth/signin
+accept: application/json
+content-type: application/json
+
+{
+  "username": "azhwani",
+  "password": "@zhwaniPass"
+}
+
+###
